@@ -17,7 +17,7 @@ REM     - iPhone 14
 REM     - iOS 16.4.1
 
 REM You need to change the name of the application according to the language you have on your phone.
-DEFINE #MUSIC-APP-NAME example
+DEFINE #MUSIC-APP-NAME Music
 
 GUI SPACE
 DELAY 300
